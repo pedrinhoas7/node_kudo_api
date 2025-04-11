@@ -61,8 +61,3 @@ npm run dev
 
 *Kudos* são uma forma simples e poderosa de demonstrar reconhecimento entre colegas de equipe. Com essa API, promover cultura de valorização ficou mais fácil!
 
-```
-
----
-
-Se quiser que eu coloque os nomes dos modelos, campos das tabelas, payloads reais, ou dados de exemplo do seu projeto, é só me passar que deixo esse README mais personalizado.
